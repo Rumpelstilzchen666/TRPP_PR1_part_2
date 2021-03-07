@@ -8,5 +8,6 @@ int main() {
 	cout << 3 << " * " << 3 << " = " << 3 * 3 << endl;
 	cout << "I also ♥ math\n";
 	int a = 0, b = 1;
+	cout << a << (a > b ? " > " : " <= ") << b;
 	return 0;
 }

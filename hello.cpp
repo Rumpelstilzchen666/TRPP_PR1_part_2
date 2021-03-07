@@ -3,5 +3,5 @@ using namespace std;
 
 string Hello::hello()
 {
-	return "Hello, World!\nI ♥ programming\n";
+	return "Hello, World!\nI ♥ programming\nMy favorite language is C++\n";
 }
